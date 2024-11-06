@@ -19,7 +19,7 @@ Clone the repository:
 ```bash
 git clone https://github.com/Gmin2/cli-png.git
 cd png-cli
-
+```
 Build the project:
 ```bash
 cargo build --release
