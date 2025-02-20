@@ -1,0 +1,7 @@
+# Basic configuration
+timeout = 7200
+
+[labels]
+try = ["+trying"]
+try_succeed = ["+passed"]
+try_failed = ["+failed"]
