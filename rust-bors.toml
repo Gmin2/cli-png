@@ -1,7 +1,6 @@
-# Basic configuration
+# Basic configuration for bors
 timeout = 7200
+required_approvals = 1
 
-[labels]
-try = ["+trying"]
-try_succeed = ["+passed"]
-try_failed = ["+failed"]
+[permissions]
+users = ["Gmin2"]
